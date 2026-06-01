@@ -1,0 +1,17 @@
+# Arduino build artifacts
+build/
+*.hex
+*.elf
+*.o
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App Inventor exports (optional — keep .aia to version it)
+*.apk
